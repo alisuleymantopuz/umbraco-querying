@@ -1,2 +1,2 @@
 # umbracoDatabaseChangingCollation
-Provides a query to change collation for umbraco database. 
+Provides helper queries such as changing collation for umbraco database etc.
